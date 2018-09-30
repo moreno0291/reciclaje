@@ -1,2 +1,2 @@
 # reciclaje
-Aplicacion web para sistema de reciclaje
+Aplicacion web para reciclaje
